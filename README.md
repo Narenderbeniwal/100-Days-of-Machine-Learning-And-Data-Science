@@ -2,3 +2,6 @@
 ## Day 0
 1. Completed assignment 18 of machine Learning 
 2. Completed 10 machine learning interview questions:- https://justpaste.it/8xmln
+## Day 1
+1. Completed assignment 17 of machine Learning 
+2. Completed 10 machine learning interview questions
