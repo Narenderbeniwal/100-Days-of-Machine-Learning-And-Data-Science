@@ -12,3 +12,4 @@
 
 ## Day 3
 1. Completed 2 assignment  of Python
+2. Completed 20 machine learning interview questions
