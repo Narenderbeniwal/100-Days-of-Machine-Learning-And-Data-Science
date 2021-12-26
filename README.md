@@ -17,3 +17,6 @@
 ## Day 4
 1. Completed 2 assignment  of Python
 2. Completed 10 machine learning interview questions
+
+## Day 5
+1. Completed assignment 5 of machine Learning
