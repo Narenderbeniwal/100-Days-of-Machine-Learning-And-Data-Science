@@ -12,4 +12,8 @@
 
 ## Day 3
 1. Completed 2 assignment  of Python
-2. Completed 20 machine learning interview questions
+2. Completed 10 machine learning interview questions
+
+## Day 4
+1. Completed 2 assignment  of Python
+2. Completed 10 machine learning interview questions
