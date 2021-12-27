@@ -20,3 +20,5 @@
 
 ## Day 5
 1. Completed assignment 5 of machine Learning
+
+## Day 6
