@@ -19,6 +19,7 @@
 2. Completed 10 machine learning interview questions
 
 ## Day 5
-1. Completed assignment 5 of machine Learning
+1. Completed assignment number 5 of machine Learning
 
 ## Day 6
+1. Completed total 5 assignment  of python
