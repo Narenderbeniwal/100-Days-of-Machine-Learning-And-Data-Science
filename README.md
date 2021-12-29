@@ -23,3 +23,6 @@
 
 ## Day 6
 1. Completed total 5 assignment  of python
+
+## Day 7
+1. Completed total 4 assignment  of python
