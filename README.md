@@ -26,3 +26,6 @@
 
 ## Day 7
 1. Completed total 4 assignment  of python
+
+## Day 8
+1. Completed total 3 assignment  of python
