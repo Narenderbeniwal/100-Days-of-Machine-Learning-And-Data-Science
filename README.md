@@ -32,3 +32,7 @@
 
 ## Day 9
 1. Completed total 3 assignment  of python
+
+## Day 10
+1. Completed total 1 assignment  of python
+2. 1. Completed total 1 assignment  of Machine Learning
