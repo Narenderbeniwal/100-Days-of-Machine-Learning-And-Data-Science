@@ -39,3 +39,7 @@
 
 ## Day 11
 1. Completed total 1 assignment  of python
+
+## Day 12
+1. Completed total 1 assignment  of python
+2. Completed total 1 assignment  of Machine Learning
