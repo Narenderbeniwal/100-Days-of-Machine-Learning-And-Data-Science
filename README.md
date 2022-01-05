@@ -47,3 +47,5 @@
 ## Day 13
 1. Completed total 3 assignment  of python
 
+## Day 14
+1. Completed total 10 assignment  of Statistics
