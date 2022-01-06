@@ -49,3 +49,7 @@
 
 ## Day 14
 1. Completed total 10 assignment  of Statistics
+
+## Day 11
+1. Completed total 1 assignment  of Excel
+
