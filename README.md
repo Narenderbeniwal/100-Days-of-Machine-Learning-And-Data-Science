@@ -53,3 +53,8 @@
 ## Day 11
 1. Completed total 1 assignment  of Excel
 
+## Day 12
+1. Completed total 1 assignment  of Excel
+
+## Day 13
+1. Completed total 1 assignment  of Excel
