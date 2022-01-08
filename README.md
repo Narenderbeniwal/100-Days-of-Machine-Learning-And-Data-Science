@@ -58,3 +58,6 @@
 
 ## Day 13
 1. Completed total 1 assignment  of Excel
+
+## Day 14
+1. Completed total 1 assignment  of Excel
