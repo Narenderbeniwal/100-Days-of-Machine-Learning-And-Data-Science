@@ -71,3 +71,8 @@
 
 ## Day 17
 1. Completed total 1 assignment  of Excel
+
+
+
+## Day 18
+1. Completed total 1 assignment  of Excel
