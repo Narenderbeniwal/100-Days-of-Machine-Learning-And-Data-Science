@@ -80,3 +80,8 @@
 
 ## Day 19
 1. Completed total 3 assignment  of Excel
+
+
+
+## Day 20
+1. Completed 1 Assesment for Data Science Job
