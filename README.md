@@ -85,3 +85,7 @@
 
 ## Day 20
 1. Completed 1 Assesment for Data Science Job
+
+## Day 21
+1. Stuided 2 Resume Machine larning Project 
+2. Given Research Engineer profile interview
