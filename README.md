@@ -89,3 +89,8 @@
 ## Day 21
 1. Stuided 2 Resume Machine larning Project 
 2. Given Research Engineer profile interview
+
+
+## Day 22
+1. Completed 1 deep Learning assignment
+2. stuided deep learning for 3 hours, Mnist project Done
