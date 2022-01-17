@@ -94,3 +94,7 @@
 ## Day 22
 1. Completed 1 deep Learning assignment
 2. stuided deep learning for 3 hours, Mnist project Done
+
+## Day 23
+1. Read the operating system and given the OS internal Exam
+2. stuided deep learning 
