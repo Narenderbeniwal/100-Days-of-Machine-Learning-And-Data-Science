@@ -98,3 +98,6 @@
 ## Day 23
 1. Read the operating system and given the OS internal Exam
 2. stuided deep learning 
+
+## Day 24
+1. stuided deep learning and done 1 assignment
