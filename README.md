@@ -101,3 +101,7 @@
 
 ## Day 24
 1. stuided deep learning and done 1 assignment
+
+## Day 25
+1. Completed 1 deep Learning assignment
+2. Revised python 
