@@ -108,3 +108,7 @@
 
 ## Day 26
 1. Completed 1 deep Learning assignment
+
+## Day 27
+1. Revised SQL Basic queries and Learn ER Diagram 
+
