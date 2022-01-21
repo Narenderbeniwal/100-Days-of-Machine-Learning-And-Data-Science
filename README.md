@@ -112,3 +112,5 @@
 ## Day 27
 1. Revised SQL Basic queries and Learn ER Diagram 
 
+## Day 28
+1. Revised Python
