@@ -114,3 +114,6 @@
 
 ## Day 28
 1. Revised Python
+
+## Day 29
+1. Revised Python
