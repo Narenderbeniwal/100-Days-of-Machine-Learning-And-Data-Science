@@ -117,3 +117,6 @@
 
 ## Day 29
 1. Revised Python
+
+## Day 30
+1. Revised Statistics
