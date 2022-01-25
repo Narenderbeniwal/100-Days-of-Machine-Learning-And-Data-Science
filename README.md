@@ -120,3 +120,7 @@
 
 ## Day 30
 1. Revised Statistics
+
+## Day 31
+1. Watch Python interview questions vedio: https://www.youtube.com/watch?v=YeupGcOW-3k
+2. Watch Django interview questions vedio: https://www.youtube.com/watch?v=hMwGWqyIKEs
